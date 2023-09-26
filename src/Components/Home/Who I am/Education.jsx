@@ -14,9 +14,10 @@ export default function Education() {
          <div className='w-14 h-14 bg-green-800 absolute z-40 ml-5 mt-7 '>
 
          </div>
+
          <div className='w-14 h-14 bg-yellow-800 absolute  z-10 '>
 
-          </div>
+         </div>
       </div> */}
       
       {/* Academic Background */}
