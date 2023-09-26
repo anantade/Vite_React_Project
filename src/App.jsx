@@ -4,6 +4,7 @@
 import Home from "./Components/Home/Home"
 import Eductional from "./Components/Educational/Eductional"
 import Whoiam from "./Components/Home/Who I am/Whoiam"
+import Blog from "./Components/Blog/Blog"
 function App() {
   
 
@@ -12,7 +13,8 @@ function App() {
     
     {/* < Home /> */}
     {/* < Whoiam /> */}
-    < Eductional />
+    {/* < Eductional /> */}
+    < Blog />
 
     </>
   )
