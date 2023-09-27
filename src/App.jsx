@@ -5,6 +5,7 @@ import Home from "./Components/Home/Home"
 import Eductional from "./Components/Educational/Eductional"
 import Whoiam from "./Components/Home/Who I am/Whoiam"
 import Blog from "./Components/Blog/Blog"
+import Events from "./Components/Events/Events"
 function App() {
   
 
@@ -14,7 +15,8 @@ function App() {
     {/* < Home /> */}
     {/* < Whoiam /> */}
     {/* < Eductional /> */}
-    < Blog />
+    {/* < Blog /> */}
+    < Events />
 
     </>
   )
