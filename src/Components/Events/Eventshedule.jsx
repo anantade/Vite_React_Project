@@ -21,7 +21,7 @@ export default function Eventshedule() {
 
        {/* event table start */}
 
-          <div className='mt-10 md:md:ml-52 pb-10 md:block hidden'>
+          <div className='mt-10 md:ml-52 pb-10 md:block hidden'>
             <table className='border-collapse border border-slate-500 '>
               <thead>
                 <tr>
@@ -51,7 +51,7 @@ export default function Eventshedule() {
 
               <tbody>
                 <tr>
-                    <td className='border border-slate-700 text-white md:w-28 md:h-16 pl-2 text-sm '>08:00-10:00</td>
+                    <td className='border border-slate-700 text-white md:w-28 md:h-16 pl-2 text-sm '>10:00-12:00</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '>Lorem</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '>Lorem</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '></td>
@@ -64,7 +64,7 @@ export default function Eventshedule() {
 
               <tbody>
                 <tr>
-                    <td className='border border-slate-700 text-white md:w-28 md:h-16 pl-2 text-sm '>08:00-10:00</td>
+                    <td className='border border-slate-700 text-white md:w-28 md:h-16 pl-2 text-sm '>14:00-16:00</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '>Lorem</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 '></td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '>Lorem</td>
@@ -77,7 +77,7 @@ export default function Eventshedule() {
 
               <tbody>
                 <tr>
-                    <td className='border border-slate-700 text-white md:w-28 md:h-16 pl-2 text-sm '>08:00-10:00</td>
+                    <td className='border border-slate-700 text-white md:w-28 md:h-16 pl-2 text-sm '>16:00-18:00</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '></td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '>Lorem</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '>Lorem</td>
@@ -90,7 +90,7 @@ export default function Eventshedule() {
 
               <tbody>
                 <tr>
-                    <td className='border border-slate-700 text-white md:w-28 md:h-16 pl-2 text-sm '>08:00-10:00</td>
+                    <td className='border border-slate-700 text-white md:w-28 md:h-16 pl-2 text-sm '>18:00-20:00</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '>Lorem</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm'>Lorem</td>
                     <td className='border border-slate-700 text-orange-600 md:w-28 md:h-16 pl-2 text-sm '>Lorem</td>
