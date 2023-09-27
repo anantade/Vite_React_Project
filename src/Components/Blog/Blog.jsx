@@ -3,6 +3,7 @@ import Navbar from '../Home/Navbar'
 import Blogimage from './Blogimage'
 import Booksrecomended from './Booksrecomended'
 import Middlesection from './Middlesection'
+import Footerblog from './Footerblog'
 
 export default function Blog() {
   return (
@@ -11,6 +12,7 @@ export default function Blog() {
     <Blogimage />
     <Booksrecomended />
     <Middlesection />
+    <Footerblog />
     </>
   )
 }
