@@ -7,7 +7,7 @@ import Footerblog from '../Blog/Footerblog'
 export default function Industrial() {
   return (
     <>
-      <Navbar/>
+      <Navbar />
       <Industrialimage/>
       <Mainpart/>
       <Footerblog/>
