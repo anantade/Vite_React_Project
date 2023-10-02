@@ -5,7 +5,7 @@ export default function Mission() {
     <div>
        < div className=' flex flex-wrap bg-gray-900 pt-5'>
 
-        <div className='pl-28'>
+        <div className='md:pl-28 pl-10'>
 
           <p className='text-white text-sm pt-16'>Mission</p><br />
           <p className='text-white'>ON MISSION TO CHANGE LIVES</p> <br />  
@@ -13,7 +13,7 @@ export default function Mission() {
 
           </div>
           
-         <div className='w-96  h-96 ml-36 '>
+         <div className='w-96  h-96 md:ml-36 ml-4 md:pt-0 pt-5 '>
             <img className='rounded-xl' src="https://images.lifestyleasia.com/wp-content/uploads/2018/11/03210245/shutterstock_501419905.jpg" alt="" />
          </div>
 

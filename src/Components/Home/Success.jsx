@@ -7,7 +7,7 @@ export default function Success() {
       <div className='flex flex-wrap bg-gray-900 md:w-[1348px]'>
 
         
-          <img className='md:w-96 h-72 md:ml-44 ml-10 mt-4 rounded-xl' src="https://brandwear.co.nz/cdn/shop/products/aurora-adults-kids-training-warm-up-top-black-WTT_1200x.jpg?v=1643740470" alt="image" />
+          <img className='md:w-96 h-72 md:ml-44 ml-16 mt-4 rounded-xl' src="https://brandwear.co.nz/cdn/shop/products/aurora-adults-kids-training-warm-up-top-black-WTT_1200x.jpg?v=1643740470" alt="image" />
        
           <div>
            <p className='mt-12 ml-5 font-bold text-[30px] text-white'>SUCCESS</p>
@@ -24,7 +24,7 @@ export default function Success() {
          <p className='text-white md:pl-[450px] pl-5 '>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Eum, unde.</p>
       </div>
 
-      <div className="flex flex-wrap bg-gray-900 pt-10 justify-center ">
+      <div className="flex flex-wrap bg-gray-900 pt-10 justify-center pb-10 ">
            
            {/* First card start */}
          <div className='bg-gray-800 rounded-2xl md:mt-1 '>
