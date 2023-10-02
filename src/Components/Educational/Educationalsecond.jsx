@@ -46,9 +46,9 @@ export default function Education() {
       {/* Professional background end */}
 
       <div>
-        <p className='text-white text-4xl md:pl-96 pl-5 pt-10'>Why Instutations / University should <br /> <p className='md:pl-36'>Promote this project</p> </p>
+        <h5 className='text-white text-4xl md:pl-96 pl-5 pt-10'>Why Instutations / University should <br /> <p className='md:pl-36'>Promote this project</p> </h5>
 
-        <p className='text-gray-400 text-sm md:pl-96 pl-5 pt-5 '>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam,    itaque maxime error officia esse <br /> <p className='md:pl-48'>inventore quod vitae odit ipsum rerum.</p></p>
+        <h5 className='text-gray-400 text-sm md:pl-96 pl-5 pt-5 '>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laboriosam,    itaque maxime error officia esse <br /> <p className='md:pl-48'>inventore quod vitae odit ipsum rerum.</p></h5>
       </div>
         
 

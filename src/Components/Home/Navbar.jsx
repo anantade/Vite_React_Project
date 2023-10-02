@@ -87,7 +87,7 @@ export default function Navbar() {
           </Link>
         </div>
         <div className='ml-8 hidden md:block'>
-          <button className='cursor-pointer hover:bg-pink-900 text-white rounded-xl bg-orange-400 w-24 h-12'>
+          <button className='cursor-pointer hover:bg-pink-700 text-white rounded-xl bg-orange-400 w-24 h-12'>
             Lets Meet
           </button>
         </div>
