@@ -12,7 +12,7 @@ export default function Navbar() {
 
   return (
     <div>
-      <nav className='bg-gray-900 flex  pt-2 pb-2 relative'>
+      <nav className='bg-gray-900 flex  pt-2 pb-2 relative shadow-lg shadow-cyan-500/50'>
         
         <div>
           <Link to="/">
