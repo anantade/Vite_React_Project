@@ -4,8 +4,8 @@ import React from 'react'
 export default function Logosection() {
   return (
     <div className='flex flex-wrap bg-gray-900 '>
-       <div className='md:ml-36 ml-10'>
-         <img className='w-[100px] rounded-xl' src="https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/inc-logo_16x9.webp" alt="logo" />
+       <div className='md:ml-36 ml-10 '>
+         <img className='w-[100px] rounded-xl  ' src="https://img-cdn.inc.com/image/upload/w_1024,h_576,c_fill/inc-logo_16x9.webp" alt="logo" />
        </div>
 
        <div className='md:ml-48 ml-[90px] rounded-md'>
