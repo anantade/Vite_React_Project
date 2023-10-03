@@ -10,13 +10,13 @@ import Footer from '../Home/Footer'
 export default function Whoiam() {
   return (
     <>
-      <Navbar />
+      
       <Header />
       <Education />
       <Successstory />
       <Achivement />
       <Vision />
-      <Footer />
+      
 
     </>
   )

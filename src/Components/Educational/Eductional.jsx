@@ -9,11 +9,11 @@ import Footer from '../Home/Footer'
 export default function Eductional() {
   return (
     <>
-      <Navbar />
+      
       <Header />
       <Educationalsecond />
       <Hilight />
-      <Footer />
+      
     </>
   )
 }

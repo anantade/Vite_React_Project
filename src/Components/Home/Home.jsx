@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
     
-      < Navbar />
+      
       <Header/>
       <Logosection />
       <Services />
@@ -22,7 +22,7 @@ export default function Home() {
       <Success />
       <Mission />
       <Blog />
-      <Footer />
+      
 
     </>
   )
